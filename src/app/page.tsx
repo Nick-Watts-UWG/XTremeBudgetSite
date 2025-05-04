@@ -14,7 +14,7 @@ export default function Home() {
       <div className=" text-center flex flex-col items-center font-mono bg-slate-400 gap-3 w-3/4 rounded-xl p-10">
         <h1 className=" text-4xl mb-5">About X-Treme Budget Software</h1>
         <p>X-Treme Budget Software is the new industry standard for budgeting software.</p>
-        <p>Whether you're looking to become a millionaire or figure out how to get out of debt, X-Treme Budget Software does it all!</p>
+        <p>Whether you are looking to become a millionaire or figure out how to get out of debt, X-Treme Budget Software does it all!</p>
         <p>Act fast! Pull out your debit card or cryptocurrency of choice and take ownership of your financial freedom.</p>
       </div>
 

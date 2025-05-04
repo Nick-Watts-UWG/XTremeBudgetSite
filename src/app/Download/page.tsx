@@ -1,11 +1,6 @@
 import NavBar from "@/Components/ServerComponents/NavBar";
 
 
-function DownloadSoftware() {
-
-}
-
-
 export default function Download() {
     return (
         <>
